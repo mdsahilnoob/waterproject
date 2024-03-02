@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-2-regular: Inter;
+  --font-dm-sans: "DM Sans";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --body-2-regular-size: 14px;
+  --font-size-xs: 12px;
+  --font-size-smi: 13px;
+
+  /* Colors */
+  --primary-300: #f4f7fe;
+  --text-color-900: #3a4264;
+  --text-color-950: #292d42;
+  --text-color-00: #fff;
+  --text-color-800: #495384;
+  --text-color-50: #f4f7fa;
+  --color-mediumslateblue: #234df0;
+  --color-darkslateblue: #2b3674;
+  --color-lightsteelblue-100: #a3aed0;
+  --text-color-400: #8da6cd;
+  --text-color-100: #e5eaf4;
+  --primary-400: #7b94f6;
+  --color-gray-100: rgba(39, 35, 36, 0.9);
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-9xs: 4px;
+  --gap-xl: 20px;
+  --gap-0: 0px;
+
+  /* Paddings */
+  --padding-13xl: 32px;
+  --padding-xs: 12px;
+  --padding-3xs: 10px;
+  --padding-sm: 14px;
+
+  /* Border radiuses */
+  --br-7xs: 6px;
+  --br-12xs: 1px;
+  --br-8xs: 5px;
+}
